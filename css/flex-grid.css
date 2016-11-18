@@ -28,6 +28,7 @@
 
 /* Mobile first approach. All columns span the full width of their parent on mobile devices */
 .col-3, .col-4, .col-6, .col-12{
+  float: left;
   width: 100%;
   padding-left: 1.041666%;
   padding-right: 1.04166%;

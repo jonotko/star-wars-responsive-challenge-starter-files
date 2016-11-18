@@ -1,0 +1,50 @@
+body{
+  font-family: 'Roboto';
+}
+header{
+  background-color: #eebb44;
+}
+
+.header-title{
+  margin-top:20px;
+  margin-bottom: 5px;
+}
+
+.header-p{
+  margin-top: 5px;;
+}
+
+main{
+  padding-top: 60px;
+}
+
+main .row{
+  margin-bottom: 20px;
+}
+
+main .col-4{
+  margin-bottom: 20px;
+}
+
+.character-wrapper{
+  border:1px solid #e5e5e5;
+}
+.character-img{
+  width: 100%;
+}
+
+.title, .movie-role{
+  margin-left: 20px;
+}
+
+.title{
+  font-size: 20px;
+  font-weight: 800;
+  margin-bottom: 5px;
+}
+.movie-role{
+  font-size: 17px;
+  font-weight: 300;
+  margin-top: 5px;
+  margin-bottom: 30px;
+}
